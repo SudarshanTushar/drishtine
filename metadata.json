@@ -1,0 +1,7 @@
+{
+  "name": "RouteAI-NE: Terrain-Aware Disaster Routing",
+  "description": "A risk-weighted, weather-adaptive routing system for North-East India focusing on governance, disaster response, and emergency healthcare access.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
